@@ -1,0 +1,3 @@
+include clinphen_src/data/*
+include clinphen_src/*.sh
+include clinphen_src/*.py
